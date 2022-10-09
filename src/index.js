@@ -1,12 +1,18 @@
-import React from "react";
-import ReactDOM from "react-dom";
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+import reportWebVitals from './reportWebVitals';
 
-import App from "./App";
+import Header from './header';
+import App from './App';
+import Footer from './footer';
 
-const rootElement = document.getElementById("root");
-ReactDOM.render(
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(
   <React.StrictMode>
+    <Header />
     <App />
-  </React.StrictMode>,
-  rootElement
+    <Footer />
+  </React.StrictMode>
 );
+
+reportWebVitals();

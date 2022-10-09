@@ -32,7 +32,7 @@ export default function App() {
       setMeaning(emojiDictionary[inputEmoji]);
     } else {
       setMeaning(
-        "Failure to recognise above emoji. Plz select emoji as listed below."
+        "Failure to recognise above emoji. Plz select emoji as shown below."
       );
     }
   }

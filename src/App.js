@@ -93,6 +93,7 @@ export default function App() {
             margin: "10px",
             minWidth: "50%",
             borderRadius: "0.5rem",
+            border: "1px solid rgb(112, 112, 112)",
             fontSize: "1rem",
             boxShadow: "0 8px 16px 0 rgb(0 0 0 / 30%), 0 6px 20px 0 rgb(0 0 0 / 19%)"
           }}
@@ -107,6 +108,7 @@ export default function App() {
             margin: "10px",
             minWidth: "10%",
             borderRadius: "0.5rem",
+            border: "1px solid rgb(112, 112, 112)",
             fontSize: "1rem",
             fontWeight: "bold",
             cursor: "pointer",

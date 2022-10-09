@@ -1,7 +1,8 @@
 
 # Emoji Interpreter
 Recent update September, 2022<br/>
-I struggle with understanding the emojis. Do you too? If yes, then see this library of emojis with meaning
+
+I struggle with understanding the emojis. Do you too? If yes, then see this library of emojis with meaning.
 
 <br/>preview<br/>
 ![image](https://user-images.githubusercontent.com/43793294/194758983-25dd7b07-8305-4ebb-9021-34484b5328c6.png)

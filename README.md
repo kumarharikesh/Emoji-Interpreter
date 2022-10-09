@@ -1,4 +1,3 @@
-
 # Emoji Interpreter
 Recent update September, 2022<br/>
 

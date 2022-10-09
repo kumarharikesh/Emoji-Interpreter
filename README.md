@@ -13,7 +13,7 @@ I struggle with understanding the emojis. Do you too? If yes, then see this libr
  - Output will be shown below.
  - Click on **Clear All** to reset the search bar.
  
-# Programming Language:
+# Tech Stack:
 
  - html
  - css 

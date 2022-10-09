@@ -93,7 +93,8 @@ export default function App() {
             margin: "10px",
             minWidth: "50%",
             borderRadius: "0.5rem",
-            fontSize: "1rem"
+            fontSize: "1rem",
+            box-shadow: "0 8px 16px 0 rgb(0 0 0 / 30%), 0 6px 20px 0 rgb(0 0 0 / 19%)"
           }}
         />
         <button
@@ -110,7 +111,8 @@ export default function App() {
             fontWeight: "bold",
             cursor: "pointer",
             color: "rgb(65, 63, 63)",
-            backgroundColor: "rgba(178, 34, 34, 0.523)"
+            backgroundColor: "rgba(178, 34, 34, 0.523)",
+            box-shadow: "0 8px 16px 0 rgb(0 0 0 / 30%), 0 6px 20px 0 rgb(0 0 0 / 19%)"
           }}
         >
           Clear All

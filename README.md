@@ -4,7 +4,7 @@ Recent update September, 2022<br/>
 I struggle with understanding the emojis. Do you too? If yes, then see this library of emojis with meaning.
 
 <br/>preview<br/>
-![image](https://user-images.githubusercontent.com/43793294/194758983-25dd7b07-8305-4ebb-9021-34484b5328c6.png)
+![image](https://user-images.githubusercontent.com/43793294/194769615-7c7090ca-71d0-4c8e-868a-bee2c9d281fd.png)
 <br/>
 
 # How to Use:
